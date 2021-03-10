@@ -1,3 +1,4 @@
 # Kokoa Clone 2020 Update
 
-First CSS Project
+HTML & CSS Project. Learn by creating a service
+
