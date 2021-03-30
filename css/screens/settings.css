@@ -8,9 +8,8 @@
 }
 
 .settings-setting i {
+    opacity: 0.8;
     margin-right: 20px;
+    font-size: 22px;
 }
 
-.settings__setting-column:last-child {
-    opacity: 0.5;
-}
